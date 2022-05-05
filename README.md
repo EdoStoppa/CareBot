@@ -1,5 +1,5 @@
 # *CareBot*
-A simple Chatbot that performs a very basic medical and psychological evaluation on the user after interacting for a bit with the bot using Natural Language
+A simple Chatbot that performs a very basic medical and psychological evaluation of the user after interacting for a bit with the bot using Natural Language
 
 ## Chatbot components
 I've mainly used this project to experiment with embeddings, NLP, and machine learning in general. To do that, this bot was divided into 3 main components:
