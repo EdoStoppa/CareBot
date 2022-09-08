@@ -36,5 +36,4 @@ Simply use this command
 The bot will start and you can interact with it without any other procedure.
 
 ### Model training and testing
-If you're interested in running the comparison of the three algorithms that I considered using in this project, use the command<br />
-```python src/train_and_test.py```
+To run a comparison among the three algorithms that I considered using in this project, use the command ```python src/train_and_test.py```
